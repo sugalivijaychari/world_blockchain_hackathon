@@ -1,5 +1,5 @@
 # world_blockchain_hackathon
-The work of our team which we have done in World Blockchain Hackathon conducted by Vaagdevi college of engineering, Warangal on 31st August and 1st of September,2018
+The work which our team has done in World Blockchain Hackathon conducted by Vaagdevi college of engineering, Warangal on 31st August and 1st of September,2018
 
 It is a nice experience we had in WBH conference. In the Hackathon, we made a decentralized application using Ethereum Blockchain, solidity, Web3.js, truffle, Ganache-cli, Metamask and other tools. Our project can extend the research of autonomous driving vehicles to integrate the Blockchain.
 
